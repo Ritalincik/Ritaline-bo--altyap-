@@ -1,7 +1,7 @@
 {
   "name": "Ritaline-Bos-Altyapi",
   "version": "1.0.0",
-  "description": "Clodge Gelişmiş Kayıt Botu",
+  "description": "Boş altyapı xd",
   "main": "shard.js",
   "scripts": {
     "test": "nodemon shard.js"
