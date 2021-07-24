@@ -1,2 +1,2 @@
-# Ritaline-bo--altyap-
+# Ritaline-bos-altyapi
 Boş discord botu altyapısı
